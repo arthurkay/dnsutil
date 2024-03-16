@@ -1,4 +1,4 @@
-module github.com/lixiangzhong/dnsutil
+module github.com/arthurkay/dnsutil
 
 require (
 	github.com/miekg/dns v1.1.58
